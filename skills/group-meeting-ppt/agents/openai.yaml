@@ -1,4 +1,4 @@
 interface:
   display_name: "硕士组会 PPT"
-  short_description: "制作清楚好讲的硕士组会PPT，默认交付可编辑PPTX和独立Word讲稿"
-  default_prompt: "使用 $group-meeting-ppt 根据所给材料制作组会 PPT 和逐页 Word 讲稿，沿用指定风格。"
+  short_description: "学习老师模板，逐页设计讲解并验收，交付可编辑PPTX和独立Word讲稿"
+  default_prompt: "使用 $group-meeting-ppt 学习老师参考稿，按材料逐页设计并制作组会 PPT 和独立 Word 讲稿，完成内容与视觉验收。"
